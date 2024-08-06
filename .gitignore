@@ -1,0 +1,1 @@
+"*.class *.jar *.war .target/ /build/ .ideal/ *.iml .vscode/"
